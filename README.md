@@ -2,7 +2,6 @@
 Presented by Section2-OneHeadOfCabbage
 Our group created an emotion detection system for improving customer service to receive more genuine and insightful feedback. When the program runs, it will detect people by showing the square around the customer's face, and then the name of the emotion will show in the top left corner.
 
-## Installation
 **Feature**
 Detected emotion detection.
 
